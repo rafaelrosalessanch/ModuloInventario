@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xml>
+ <usuario>
+  <id>informatica.php</id>
+  <nombre>Extructura tu negocio</nombre>
+    <color>white</color>
+ </usuario>
+ <usuario>
+  <id>Gestionar%20Departamento.php</id>
+    <nombre>Gestionar</nombre>
+    <color>white</color>
+ </usuario>
+ <usuario>
+  <id>areasAdministrativas.php</id>
+  <nombre>Reportes</nombre>
+    <color>white</color>
+ </usuario>
+ <usuario>
+  <id>Gestionar%20Usuario.php</id>
+  <nombre>Administración</nombre>
+    <color>white</color>
+ </usuario>
+
+
+ <usuarioo>
+  <id>Gestionar%20Departamento.php</id>
+  <nombre>Gestionar Departamento</nombre>
+    <color>black</color>
+ </usuarioo>
+ <usuarioo>
+  <id>Gestionar%20Estación.php</id>
+    <nombre>Gestionar Estación</nombre>
+    <color>black</color>
+ </usuarioo>
+ <usuarioo>
+  <id>Insertar%20Activos.php</id>
+  <nombre>Insertar Activos</nombre>
+    <color>black</color>
+ </usuarioo>
+ <usuarioo>
+  <id>Modificar%20y%20Eliminar%20Activos.php</id>
+  <nombre>Modificar y Eliminar Activos</nombre>
+    <color>black</color>
+ </usuarioo>
+  <usuarioo>
+  <id>Mover%20Activos.php</id>
+  <nombre>Mover Activos</nombre>
+    <color>black</color>
+ </usuarioo>
+  <usuarioo>
+  <id>Modificar%20Computadoras.php</id>
+  <nombre>Modificar Computadoras</nombre>
+    <color>black</color>
+ </usuarioo>
+
+
+  <usuariooo>
+  <id>Vincular%20Atributos.php</id>
+  <nombre>Vincular Atributos</nombre>
+    <color>black</color>
+ </usuariooo>
+ <usuariooo>
+  <id>Gestionar%20Atributos.php</id>
+    <nombre>Gestionar Atributos</nombre>
+    <color>black</color>
+ </usuariooo>
+
+
+  <usuarioooo>
+  <id>Consultar%20Trazas.php</id>
+  <nombre>Consultar Trazas</nombre>
+    <color>black</color>
+ </usuarioooo>
+ <usuarioooo>
+  <id>Consultar%20Activos.php</id>
+    <nombre>Consultar Activos</nombre>
+    <color>black</color>
+ </usuarioooo>
+
+
+ <usuariooooo>
+  <id>Gestionar%20Usuario.php</id>
+  <nombre>Gestionar Usuario</nombre>
+    <color>black</color>
+ </usuariooooo>
+ <usuariooooo>
+  <id>Eliminar%20Trazas.php</id>
+  <nombre>Eliminar Trazas</nombre>
+    <color>black</color>
+ </usuariooooo>
+
+
+
+</xml> 
